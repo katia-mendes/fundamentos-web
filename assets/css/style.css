@@ -5,31 +5,16 @@
 
 /* Estilos da página index.html*/
 
-.background {
-    background-image: url("https://www.google.com/url?sa=i&url=https%3A%2F%2Fwallpapers.com%2Fkonoha&psig=AOvVaw1Ahk-b3ZZNmg--IwIJ1zsj&ust=1698478450997000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPio8f3blYIDFQAAAAAdAAAAABAE");
-    background-repeat: no-repeat;
-    background-position: center center;
-    background-size: cover;
-}
-
-.center {
-    text-align: center;
-    margin: 0 auto;
-}
-
-
-/* Estilos da página anime.html*/
-
-.center {
-    text-align: center;
-    margin: 0 auto;
-}
+    body{ 
+        background-image: url("/fundamentos-web/assets/img/sakura.jpg!sw800");
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: cover;
+        width: 100%;
+        font-family: "Sofia", sans-serif;
+        text-align: center; 
+        font-size: 20px ;
+    }
 
 
-.background2 {
-    background-image: : url("https://www.google.com/url?sa=i&url=https%3A%2F%2Fpikbest.com%2Fbackgrounds%2Fqianku-sakura-minimalist-aesthetic-background_6229367.html&psig=AOvVaw1FPP_CE-nfesvt8Ih2E12U&ust=1698478803589000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJi_8KXdlYIDFQAAAAAdAAAAABAe");
-    background-repeat: no-repeat;
-    background-position: center center;
-    background-size: cover;
 
-}
